@@ -1,0 +1,5 @@
+COPY AND PASTE THIS TO BUILD/USE THE APP!
+
+(MAKE SURE YOU SAVED THE ZIP AND EXTRACTED IT IN YOUR DOWNLOADS!!!)
+
+cd ~/Desktop && rm -rf CE-ScreenCopy && unzip -oq ~/Downloads/CE-ScreenCopy.zip && cd CE-ScreenCopy && bash build.sh && open CE-ScreenCopy.app
