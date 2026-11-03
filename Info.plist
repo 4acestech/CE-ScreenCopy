@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleName</key><string>CE-ScreenCopy</string>
+  <key>CFBundleDisplayName</key><string>CE-ScreenCopy</string>
+  <key>CFBundleIdentifier</key><string>com.4acestech.cescreencopy</string>
+  <key>CFBundleExecutable</key><string>CE-ScreenCopy</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleShortVersionString</key><string>1.2</string>
+  <key>CFBundleVersion</key><string>1</string>
+  <key>LSMinimumSystemVersion</key><string>12.3</string>
+  <key>NSHighResolutionCapable</key><true/>
+  <key>NSPrincipalClass</key><string>NSApplication</string>
+  <key>NSScreenCaptureUsageDescription</key><string>CE-ScreenCopy mirrors your screen to your TI-84 Plus CE or Casio fx-CG calculator.</string>
+</dict></plist>
